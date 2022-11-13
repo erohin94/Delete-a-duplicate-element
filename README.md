@@ -1,1 +1,1 @@
-# Delete-a-duplicate-element
+# Delete a duplicate element
